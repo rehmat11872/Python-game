@@ -1,0 +1,15 @@
+"""One place for interface colors and fonts."""
+
+BACKGROUND = "#0B1020"
+PANEL = "#131C31"
+PANEL_LIGHT = "#1B2941"
+STAGE = "#101A2B"
+TEXT = "#F2F7FF"
+MUTED = "#9DAEC8"
+ACCENT = "#49E0C4"
+ACCENT_DARK = "#143E42"
+WARNING = "#FF718A"
+LINE = "#33435B"
+GOLD = "#FFD68A"
+
+FONT = "Helvetica"
